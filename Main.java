@@ -9,10 +9,13 @@ public class Main {
         // jFrame.setLocation(700, 200);
         // jFrame.setVisible(true);
 
-        MyJFrame jFrame1 = new MyJFrame("testing gui");
+        //MyJFrame jFrame1 = new MyJFrame("testing gui");
         // MyJFrame jFrame2 = new MyJFrame();
 
         //JPanel jPanel = new JPanel();
+
+        TicTacToeGame ticTacToeGame = new TicTacToeGame();
+        
 
 
 
