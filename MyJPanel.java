@@ -7,7 +7,7 @@ public class MyJPanel extends JPanel {
     protected void paintComponent(Graphics g) {
         // TODO Auto-generated method stub
         super.paintComponent(g);
-        g.drawString("Hello World", 20, 30);
-        g.drawString("this is our java course", 80, 10);
+        g.drawString("Hello World!", 20, 30);
+        g.drawString("This is our Java course",4, 4);
     }
 }
